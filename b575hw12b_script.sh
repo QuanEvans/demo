@@ -13,3 +13,4 @@ echo "#== CUT ADAPTER DONE"
 diff sample_rseq_CUT.txt sample_cutadapt_rseq.txt
 
 echo "#== SCRIPT DONE"
+The last time the script was ran is Sun Sep 18 07:20:50 PM EDT 2022
